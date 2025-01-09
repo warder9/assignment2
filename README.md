@@ -13,3 +13,6 @@ Alisher Mukhamedov and Yerkanat Manasov
 ![4](https://github.com/user-attachments/assets/1342557f-f80a-4e20-88e1-db92843128dd)
 ![5](https://github.com/user-attachments/assets/0862f436-dc33-4bc3-a659-e7e3cdc89407)
 ![6](https://github.com/user-attachments/assets/7420e521-af2b-46e3-acc2-7cec1f04b478)
+![7](https://github.com/user-attachments/assets/c569f4ba-3df8-4380-b56b-26f1dd1f8560)
+![8](https://github.com/user-attachments/assets/1559cf08-e990-4d4b-92e8-576a7bc7b086)
+![9](https://github.com/user-attachments/assets/af192180-8f5c-4da7-9d93-23db15b50412)
