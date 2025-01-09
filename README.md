@@ -3,6 +3,7 @@ We created a decentralized application that allows users to list,
 purchase, and rate AI models. The smart contract manages
 the core functionality, while the frontend should provide an intuitive
 interface for users to interact with the contract.
+Alisher Mukhamedov and Yerkanat Manasov
 ![dogecoin-rastet-na-2665-posle-obnovleniya-logotipa-twitter-bizmedia kz_](https://github.com/user-attachments/assets/7894a9b5-21ab-4dea-806a-48933f6e4b22)
 
 
